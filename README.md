@@ -1,13 +1,28 @@
-## Hola. 🪄
-Mi nombre es Diego Fernando, soy lic. en ciencias de la informatica, con gusto por la ciberseguridad, gestion de vulnerabilidades y actualmente trabajando en gobierno y riesgos de TI.
-Soy un usuario de IA's que siempre busca aprender el correcto uso y aplicacion de estas. Detectando que no sabemos estructurar las ideas en nuestra cabeza y por lo tanto no obtenemos los resultados buscados.
-Descubri no hace mucho que me gusta el patronaje modas y la confeccion de prendas, mi apuesta es a un ejecutor vectorial integrado con IA que pueda facilitar los procesos de construccion de patrones. por ello hare mi mas grande esfuerzo para aprender lo necesario para ofrecer un servicio de este estilo.
-Estaria super colaborar y armar un team fregon!
+# Diego Fernando (fergofw) 👋🪄
 
-Espero conocer gente chill y compartir experiencias.
+¡Hola! — licenciado en Ciencias de la Informática. Me apasiona la ciberseguridad, la gestión de vulnerabilidades y actualmente trabajo en gobierno y riesgos de TI. También me interesa la intersección entre IA y procesos creativos como el patronaje y la confección textil.
 
-PD. Buscando mejorar mi ingles, if u teach me english i teach u spanish. win - win.
+## 🔭 Lo que hago ahora
+- Gobierno y riesgos de TI — gestión de controles, evaluación de riesgos y procesos de cumplimiento.  
+- Seguridad informática y gestión de vulnerabilidades.  
+- Explorando herramientas de IA para automatización y mejora de procesos.
 
+## 💻 Tecnologías / Stack
+- Seguridad: OWASP, gestión de vulnerabilidades, análisis de riesgo.  
+- Diseño / patronaje: investigación y prototipado de flujo vectorial asistido por IA.
+
+## 🤝 ¿Quieres colaborar?
+Me encantaría armar un team fregon — si quieres colaborar:
+- Abre un issue en el repo con tu idea o propuesta.  
+- O mándame un PR con cambios pequeños (README, documentación o ejemplos).  
+
+- Si quieres enseñarme inglés, te enseño español — win-win 😄
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/fergofw
+
+## 📝 Nota sobre el perfil
+Estoy aprendiendo constantemente y abierto a feedback. Si algo no está claro en mis repos o quieres ayudar a mejorar algo, abre un issue o PR.
 
 ✨🏳️‍🌈
 
